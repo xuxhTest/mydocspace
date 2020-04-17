@@ -18,7 +18,18 @@ offline：连接出现异常，设备无响应
 unknown：没有连接设备
 
 ## adb forward ##
+
+list all forward socket connections
+
+    adb forward --list
+set up port forwarding
+
+    adb forward tcp:6123 tcp:7123
 ## adb kill-server ##
+terminates the adb server process
+
+    adb kill-server
+> Notes: kill the server if it is running. (terminal adb.exe process)
 # Wireless #
 ## adb connect ##
 ## adb usb ##

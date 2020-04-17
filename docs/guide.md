@@ -1,6 +1,10 @@
   
 * 测试理论
   * [敏捷测试](test-theory/agile.md)
+* python
+  * [python资源](python/resource.md)
+  * [python思维导图](python/xmind.md)
+  * [pytest](python/pytest.md)
 * 手机应用
   * [ADB Shell](app/adb.md)
 * 接口测试
@@ -11,8 +15,7 @@
   * [Gradle](java/gradle.md)
 * 性能测试
   * [性能测试分类与分析](performance/loadtesting.md)
-* python
-  * [pytest](python/pytest.md)
+
 * shell
   * [常用命令](shell/shell.md)
 * 数据库
