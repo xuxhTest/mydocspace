@@ -4,7 +4,7 @@
 * python
   * [python资源](python/resource.md)
   * [python思维导图](python/xmind.md)
-  * [pytest](python/pytest.md)
+  * [pytest fixture](python/fixture.md)
 * 手机应用
   * [ADB Shell](app/adb.md)
 * 接口测试
