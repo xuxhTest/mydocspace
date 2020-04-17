@@ -4,11 +4,11 @@
 
     adb devices
 	adb devices -l
-![](images\adb1.png)
+![](..\images\adb1.png)
 ## adb get-state ##
 获取设备状态
 
-![](images\adb2.png)
+![](..\images\adb2.png)
 
 设备的状态有 3 钟，device , offline , unknown
 device：设备正常连接
