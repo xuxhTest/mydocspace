@@ -5,8 +5,6 @@
   * [ADB Shell](app/adb.md)
 * 接口测试
   * [Jmeter](api/jmeter.md)
-* 手机应用
-  * [Adb](app/adb.md)
 * Devops
   * [Docker](devops/docker.md)
 * java
