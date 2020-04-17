@@ -1,6 +1,8 @@
   
 * 测试理论
   * [敏捷测试](test-theory/agile.md)
+* 手机应用
+  * [ADB Shell](app/adb.md)
 * 接口测试
   * [Jmeter](api/jmeter.md)
 * 手机应用
