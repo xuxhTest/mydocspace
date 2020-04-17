@@ -8,4 +8,4 @@ IT行业，是一个知识密集型产业，软件测试工程师，应该也具
 
 # 新技术正确学习方式 #
 
-![](E:\mydoc\mydocspace\docs\images\cover.png)
+![](images\cover.png)
