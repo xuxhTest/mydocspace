@@ -6,6 +6,8 @@
 
 此外，`pytest`继续支持经典的`xUnit`风格的测试。你可以根据自己的喜好，混合使用两种风格，或者逐渐过渡到新的风格。你也可以从已有的`unittest.TestCase`或者`nose`项目中执行测试；
 
+just for testing
+
 ## 1. `fixture`：作为形参使用
 
 测试用例可以接收`fixture`的名字作为入参，其实参是对应的`fixture`函数的返回值。通过`@pytest.fixture`装饰器可以注册一个`fixture`；
