@@ -1,4 +1,4 @@
-  
+
 * 测试理论
   * [敏捷测试](test-theory/agile.md)
 * python
@@ -33,3 +33,5 @@
   * [MySQL](sql/mysql.md)
 * 工具集
   * [ELK](tools/elk.md)
+* MAC
+  * [ELK](mac/brew.md)
